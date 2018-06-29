@@ -7,3 +7,7 @@ https://askubuntu.com/questions/916260/how-to-install-point-cloud-library-v1-8-p
 
 ROS创建点云数据并在rviz中显示
 https://blog.csdn.net/ktigerhero3/article/details/70185651
+
+
+Ubuntu16.04下PCL点云库的安装及使用demo
+https://blog.csdn.net/yinxingtianxia/article/details/80267240
